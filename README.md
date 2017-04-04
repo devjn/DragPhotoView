@@ -1,7 +1,7 @@
 # DragPhotoView [中文说明](https://github.com/githubwing/DragPhotoView/blob/master/README_CH.md)
 
 
-[![](https://jitpack.io/v/githubwing/DragPhotoView.svg)](https://jitpack.io/#githubwing/DragPhotoView)
+[![](https://jitpack.io/v/devjn/DragPhotoView.svg)](https://jitpack.io/#devjn/DragPhotoView)
 
 A Draggable PhotoView Like Wechat，Using PhotoView
 
